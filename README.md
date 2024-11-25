@@ -21,7 +21,7 @@ With **2+ years of experience in data science**, I specialize in transforming ra
 ---
 
 ## 📈 **Experience Highlights**
-### **Associate Data Scientist** | LTIMindtree | Client: ICICI Bank  
+### **Data Scientist** | LTIMindtree | Client: ICICI Bank  
 #### Key Projects:
 1. **ICICI One Bank One Flow**:  
    - Developed an **end-to-end pipeline** using **Roberta NER transformers** and **Fasttext** for intent classification.  
