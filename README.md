@@ -52,7 +52,8 @@ With **2+ years of experience in data science**, I specialize in transforming ra
 ---
 
 ## 🏆 **Certifications**
-- Microsoft Certified: **Azure Fundamentals (AI-900)**.  
+- Microsoft Certified: **Data Scientist Associate (DP-100)**.
+- Microsoft Certified: **Azure AI Fundamentals (AI-900)**.  
 - Databricks **Lakehouse Fundamentals**.  
 - **Instructor-Led Training** on DataBricks.  
 
