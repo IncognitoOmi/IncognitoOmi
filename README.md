@@ -15,13 +15,29 @@ With **2+ years of experience in data science**, I specialize in transforming ra
 
 ## 🛠 **Skills**
 **Programming & Tools**:
-- Python | SQL | PySpark | Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn  
-- Azure Databricks | Azure Data Factory | Power BI | Docker | Streamlit | BeautifulSoup  
-- MLFlow | PyCaret | GitHub | Data Warehouse | Big Data
+● Programming : Python, SQL, PySpark
+● Technology : Artificial Intelligence, Machine learning, Data science, Statistics, Deep learning, NLP, GenAI(Generative 
+AI), LLM (Large Language models), Predictive Modeling,RAG, Exploratory Data Analysis (EDA), Azure Cloud, Azure ML 
+Studio, Databricks, Power BI, ADF(Azure Data Factory),AzureFacbric,MS-Excel, GitHub/Git, ETL, VectorDB
+● Data Manipulation and Preprocessing : Data Wrangling, Feature Engineering, Data Integration, Data Cleaning 
+Preprocessing, Web Scraping
+● ML Frameworks : Pandas, Numpy, Scikit-Learn, MLFlow, Pytorch, HuggingFace, LangChain, Tensorflow
 ---
 
 ## 📈 **Experience Highlights**
-### **Data Scientist** | LTIMindtree | Client: ICICI Bank  
+### **Data Scientist/ AI Engineer** | LTIMindtree |
+
+Client – MICROSOFT
+#### Key Project:
+1. GPT-Based RAG Accelator : 
+- GPT-Based Retrieval-Augmented Generation (RAG) Accelerator
+- Designed and deployed a RAG accelerator to enable conversational AI on custom datasets.
+- Integrated Microsoft Azure OpenAI Services to incorporate GPT models for seamless natural language interactions.
+- Implemented semantic search and data retrieval using Azure AI Search.
+- Leveraged Azure Storage Containers for scalable and efficient data management, used CosmosDB for vector store.
+- Developed and deployed APIs using Azure Function API. 
+
+Client: ICICI Bank  
 #### Key Projects:
 1. **ICICI One Bank One Flow**:  
    - Developed an **end-to-end pipeline** using **Roberta NER transformers** and **Fasttext** for intent classification.  
@@ -38,8 +54,7 @@ With **2+ years of experience in data science**, I specialize in transforming ra
 
 4. **ICICI OBOF Trade and Trade Rules**:  
    - Developed models for identifying customers using **Jaro-Winkler** and **Levenshtein distance**.  
-   - Utilized **XGBoost** via **PyCaret**, achieving the best classification results.  
-
+   - Utilized **XGBoost** via **PyCaret**, achieving the best classification results. 
 ---
 
 ## 📂 **Projects**
@@ -52,6 +67,7 @@ With **2+ years of experience in data science**, I specialize in transforming ra
 ---
 
 ## 🏆 **Certifications**
+- Microsoft Certified: **AI Engineer Associate Associate (AI-102)**.
 - Microsoft Certified: **Data Scientist Associate (DP-100)**.
 - Microsoft Certified: **Azure AI Fundamentals (AI-900)**.  
 - Databricks **Lakehouse Fundamentals**.  
