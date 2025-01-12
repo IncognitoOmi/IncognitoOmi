@@ -27,12 +27,12 @@ With **2+ years of experience in data science**, I specialize in transforming ra
 Client – MICROSOFT
 #### Key Project:
 1. GPT-Based RAG Accelator : 
-- GPT-Based Retrieval-Augmented Generation (RAG) Accelerator
-- Designed and deployed a RAG accelerator to enable conversational AI on custom datasets.
-- Integrated Microsoft Azure OpenAI Services to incorporate GPT models for seamless natural language interactions.
-- Implemented semantic search and data retrieval using Azure AI Search.
-- Leveraged Azure Storage Containers for scalable and efficient data management, used CosmosDB for vector store.
-- Developed and deployed APIs using Azure Function API. 
+   - GPT-Based Retrieval-Augmented Generation (RAG) Accelerator
+   - Designed and deployed a RAG accelerator to enable conversational AI on custom datasets.
+   - Integrated Microsoft Azure OpenAI Services to incorporate GPT models for seamless natural language interactions.
+   - Implemented semantic search and data retrieval using Azure AI Search.
+   - Leveraged Azure Storage Containers for scalable and efficient data management, used CosmosDB for vector store.
+   - Developed and deployed APIs using Azure Function API. 
 
 Client: ICICI Bank  
 #### Key Projects:
