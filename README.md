@@ -14,16 +14,16 @@ With **2+ years of experience in data science**, I specialize in transforming ra
 ---
 
 ## 🛠 **Skills**
-##Programming : Python, SQL, PySpark
+## Programming : Python, SQL, PySpark
 
-##Technology : Artificial Intelligence, Machine learning, Data science, Statistics, Deep learning, NLP, GenAI(Generative 
+## Technology : Artificial Intelligence, Machine learning, Data science, Statistics, Deep learning, NLP, GenAI(Generative 
 AI), LLM (Large Language models), Predictive Modeling,RAG, Exploratory Data Analysis (EDA), Azure Cloud, Azure ML 
 Studio, Databricks, Power BI, ADF(Azure Data Factory),AzureFacbric,MS-Excel, GitHub/Git, ETL, VectorDB
 
-##Data Manipulation and Preprocessing : Data Wrangling, Feature Engineering, Data Integration, Data Cleaning 
+## Data Manipulation and Preprocessing : Data Wrangling, Feature Engineering, Data Integration, Data Cleaning 
 Preprocessing, Web Scraping
 
-##ML Frameworks : Pandas, Numpy, Scikit-Learn, MLFlow, Pytorch, HuggingFace, LangChain, Tensorflow
+## ML Frameworks : Pandas, Numpy, Scikit-Learn, MLFlow, Pytorch, HuggingFace, LangChain, Tensorflow
 
 ---
 
@@ -108,4 +108,3 @@ Client: ICICI Bank
 If you like my work, feel free to connect and explore my repositories! 😊
 
 
-Isko sahi se frame kr bro
