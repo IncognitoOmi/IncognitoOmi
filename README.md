@@ -13,7 +13,7 @@ With **2+ years of experience in data science**, I specialize in transforming ra
 
 ---
 
-## 🛠 **Skills**
+# 🛠 **Skills**
 Programming & Tools:
 Programming : Python, SQL, PySpark
 Technology : Artificial Intelligence, Machine learning, Data science, Statistics, Deep learning, NLP, GenAI(Generative 
