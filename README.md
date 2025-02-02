@@ -8,8 +8,8 @@ With **2.8+ years of experience in data science**, I specialize in transforming 
 
 ## 🌟 **About Me**
 - 📍 Based in **Mumbai, India**.
-- 💼 Currently working as an **Data Scientist at LTIMindtree**, delivering solutions for **ICICI Bank**.
-- 🌱 Continuously learning new tools and techniques in **Machine Learning, Big Data, Cloud Platforms, and Financial Markets**.
+- 💼 Currently working as an **Data Scientist at LTIMindtree**
+- 🌱 Continuously learning new tools and techniques in **AI, Machine Learning, Big Data, Cloud Platforms, and Financial Markets**.
 
 ---
 
