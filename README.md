@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omkar Shirke  
 
-🚀 **Data Scientist | Machine Learning Enthusiast | Financial Market Trader**  
+🚀 **Data Scientist | AI Engineer | Financial Market Trader**  
 
 With **2.8+ years of experience in data science**, I specialize in transforming raw data into actionable insights and deploying end-to-end solutions that drive real-world impact. I'm also passionate about trading in financial markets with expertise in intraday strategies and options trading.
 
