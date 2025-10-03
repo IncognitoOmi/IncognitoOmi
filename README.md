@@ -2,7 +2,13 @@
 
 🚀 **Data Scientist | AI Engineer | Financial Market Trader**  
 
-With **3 years of experience in data science**, I specialize in transforming raw data into actionable insights and deploying end-to-end solutions that drive real-world impact. I'm also passionate about trading in financial markets with expertise in intraday strategies and options trading.
+● With 3+ years of experience in data science with expertise in Python, PySpark, SQL, and Azure solutions like 
+Databricks and Data Factory, ML Studio, Langchain, LangGraph, CrewAI.
+● Developed and deployed GPT-based RAG accelerator for Microsoft and 3 key data science use cases for ICICI 
+Bank, driving business impact. Implemented an end-to-end ML lifecycle platform leveraging AgenticAI.
+● Proficient in feature engineering, data transformation, and visualization to enhance model performance and building 
+GenAI based solutions.
+● Certified in Azure Data Scientist Associate (DP-100) and Azure AI Engineer Associate (AI-102).
 
 ---
 
@@ -22,6 +28,21 @@ With **3 years of experience in data science**, I specialize in transforming raw
 ---
 
 ## 📈 **Experience Highlights**
+### **AI Consultant** | EXL |
+
+MIDAS(End-to-End ML Lifecycle with AI Agents):
+#### Key Project:
+- Designed and implemented an end-to-end ML lifecycle system leveraging AI agents to automate data ingestion, 
+preprocessing, model training, deployment, and monitoring.
+- Built and orchestrated AI agents using LangGraph for workflow management and LangChain for multi-step reasoning, 
+retrieval, and tool integration. Integrated LangSmith for observability, tracing, and debugging of agent workflows.
+- Leveraged Azure Storage Containers for scalable and efficient data management, Implemented vector search using 
+Azure AI Search (Vector DB) to enable RAG-based document retrieval and semantic search.
+- Deployed LLMs on Azure AI Foundry with seamless integration into the application stack.
+- Developed REST APIs using FastAPI, ensuring scalability, modularity, and integration with front-end systems
+- Built the front-end in TypeScript, delivering a clean and interactive user experience. 
+
+
 ### **Data Scientist/ AI Engineer** | LTIMindtree |
 
 Client – MICROSOFT
