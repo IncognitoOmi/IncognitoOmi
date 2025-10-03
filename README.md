@@ -14,7 +14,7 @@ GenAI based solutions.
 
 ## 🌟 **About Me**
 - 📍 Based in **Mumbai, India**.
-- 💼 Currently working as an **Data Scientist at LTIMindtree**
+- 💼 Currently working as an **Data Scientist at EXL**
 - 🌱 Continuously learning new tools and techniques in **AI, Machine Learning, Big Data, Cloud Platforms, and Financial Markets**.
 
 ---
